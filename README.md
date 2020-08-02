@@ -1,5 +1,7 @@
 # Deep-Learning-3D
 
+### Submitted by Jonathan Cohen, 203372032
+
 Classify 3d laser-scanned objects with 95% accuracy.
 
 Designed with a Multi-View-CNN architecture, trained on Princeton's modelnet10 data set.
