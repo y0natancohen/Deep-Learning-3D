@@ -6,7 +6,7 @@ Designed with a Multi-View-CNN architecture, trained on Princeton's modelnet10 d
 
 First, convert the volumetric data into discrete voxels:
 
-<img src="https://github.com/y0natancohen/Deep-Learning-3D/raw/master/photos/7.png?raw=true" width="400" height="400">
+<img src="https://github.com/y0natancohen/Deep-Learning-3D/raw/master/photos/7.png?raw=true" width="300" height="300">
 
 Then, project the volume into `n` views (`n` is a hyper parameter of the architecture) 
 
